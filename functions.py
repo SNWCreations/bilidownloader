@@ -63,7 +63,7 @@ def flv(cid, bv, headers, quality):
     return requests.get(url, params=param, headers=headers).json()
 
 # 请求视频并保存
-async def get_flv(name, bv, flv_url, headers, page_num):
+def get_flv(name, bv, flv_url, headers, page_num):
     response = requests.get(flv_url, headers=headers)
     code = response.status_code
     text = response.content
