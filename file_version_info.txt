@@ -31,12 +31,12 @@ VSVersionInfo(
         u'000004b0',
         [StringStruct(u'CompanyName', u'SNWCreations'),
         StringStruct(u'FileDescription', u'Bilibili Downloader'),
-        StringStruct(u'FileVersion', u'1.1.0'),
+        StringStruct(u'FileVersion', u'1.2.0'),
         StringStruct(u'InternalName', u'Bilibili Downloader'),
         StringStruct(u'LegalCopyright', u'Copyright © 2021 SNWCreations.'),
         StringStruct(u'OriginalFilename', u'bilidownloader.exe'),
         StringStruct(u'ProductName', u'Bilibili Downloader'),
-        StringStruct(u'ProductVersion', u'1.1.0')])
+        StringStruct(u'ProductVersion', u'1.2.0')])
       ]), 
     VarFileInfo([VarStruct(u'Translation', [0, 1200])])
   ]
